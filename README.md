@@ -1,5 +1,7 @@
 # Understanding-this-new-stuff-
+
 ## The process I use for Writing 
+
 *Writing All the Time*
 
 **NO Free Time**
@@ -10,7 +12,7 @@ When I begin to write a paper, typically I think about the topic for a while bef
  - I am awesome at karoake 
  - my life revolves around my pigs
  - I am from Mexico, >just south of the border
- - Potatoes are the (www.bomb.com) 
- - [Food is life]
+ - [Potatoes are the](www.bomb.com) 
+ - Food is life
  ## Wyatt is my pal  
  
