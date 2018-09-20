@@ -17,3 +17,6 @@ When I begin to write a paper, typically I think about the topic for a while bef
  - Food is life
  ## Wyatt is my pal  
  
+
+
+This is the edit I'm doing for the sample guidelines. 
